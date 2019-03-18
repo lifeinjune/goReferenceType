@@ -1,0 +1,12 @@
+value types need to think about the pointer if need to change the original value of it
+    * int
+    * float
+    * string
+    * bool
+    * structs
+reference types dont need to think about the pointer when it passes to change the original value\
+    * slice
+    * maps
+    * channels
+    * pointers
+    * functions
